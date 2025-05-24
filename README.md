@@ -24,3 +24,5 @@ education-template/
 │ ├── css/main.css
 │ ├── images/
 │ └── plugins/themify-icon/
+
+try this via https://e-onlinecourse.netlify.app/
